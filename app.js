@@ -1,4 +1,4 @@
-const canvas = document.getElementById("jsCanvas"); //canvas는 pixel을 다루는 기능이 있는 HTML5의 태그
+const canvas = document.getElementById("jsCanvas");
 const ctx = canvas.getContext("2d");
 const colors = document.getElementsByClassName("jsColor");
 const range = document.getElementById("jsRange");
